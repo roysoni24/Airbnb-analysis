@@ -13,3 +13,17 @@ build a statistical model to effectively predict the price for the
 listings and company can use this model to come up with a
 price suggestion for the future listings.
 
+The libraries that are used in this project are:
+
+1. Pandas
+2. Matplotlib
+3. Seaborn These libraries helped in data handling and visualization.
+
+ ## **Credits**
+
+Soni Rani | Data Scientist | Machine Learning Enthusiast
+
+## **References**
+1. Exploratory Data Analysis (EDA) - https://www.ibm.com/cloud/learn/exploratory-data-analysis
+2. Seaborn Documentation - https://seaborn.pydata.org/api.html
+
